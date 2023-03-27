@@ -1,0 +1,20 @@
+p {
+    background-color: darkblue;
+    color: red;
+    font-size: 20px;
+
+}
+a {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+h2 {
+    color:aqua;
+}
+#idNome {
+color: brown;
+}
+input{
+    color: cornflowerblue;
+}
